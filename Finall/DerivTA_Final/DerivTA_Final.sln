@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DerivTA_Final", "DerivTA_Final\DerivTA_Final.csproj", "{F0EECA00-412F-42D0-B482-29ED69E5EA76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CVS_Input_Final", "..\CVS_Input_Final\CVS_Input_Final.csproj", "{CE17076D-296E-4D66-967E-C288A64ECF2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0EECA00-412F-42D0-B482-29ED69E5EA76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0EECA00-412F-42D0-B482-29ED69E5EA76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0EECA00-412F-42D0-B482-29ED69E5EA76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0EECA00-412F-42D0-B482-29ED69E5EA76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE17076D-296E-4D66-967E-C288A64ECF2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE17076D-296E-4D66-967E-C288A64ECF2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE17076D-296E-4D66-967E-C288A64ECF2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE17076D-296E-4D66-967E-C288A64ECF2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0E0F461-9D6F-4629-9EC3-0A34AD67729F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+E:\Finall\DerivTA_Final\DerivTA_Final\bin\Debug\netcoreapp3.1\DerivTA_Final.exe
+E:\Finall\DerivTA_Final\DerivTA_Final\bin\Debug\netcoreapp3.1\DerivTA_Final.deps.json
+E:\Finall\DerivTA_Final\DerivTA_Final\bin\Debug\netcoreapp3.1\DerivTA_Final.runtimeconfig.json
+E:\Finall\DerivTA_Final\DerivTA_Final\bin\Debug\netcoreapp3.1\DerivTA_Final.runtimeconfig.dev.json
+E:\Finall\DerivTA_Final\DerivTA_Final\bin\Debug\netcoreapp3.1\DerivTA_Final.dll
+E:\Finall\DerivTA_Final\DerivTA_Final\bin\Debug\netcoreapp3.1\DerivTA_Final.pdb
+E:\Finall\DerivTA_Final\DerivTA_Final\obj\Debug\netcoreapp3.1\DerivTA_Final.GeneratedMSBuildEditorConfig.editorconfig
+E:\Finall\DerivTA_Final\DerivTA_Final\obj\Debug\netcoreapp3.1\DerivTA_Final.AssemblyInfoInputs.cache
+E:\Finall\DerivTA_Final\DerivTA_Final\obj\Debug\netcoreapp3.1\DerivTA_Final.AssemblyInfo.cs
+E:\Finall\DerivTA_Final\DerivTA_Final\obj\Debug\netcoreapp3.1\DerivTA_Final.csproj.CoreCompileInputs.cache
+E:\Finall\DerivTA_Final\DerivTA_Final\obj\Debug\netcoreapp3.1\DerivTA_Final.dll
+E:\Finall\DerivTA_Final\DerivTA_Final\obj\Debug\netcoreapp3.1\DerivTA_Final.pdb
+E:\Finall\DerivTA_Final\DerivTA_Final\obj\Debug\netcoreapp3.1\DerivTA_Final.genruntimeconfig.cache
